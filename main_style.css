@@ -1,0 +1,40 @@
+* {
+    font-family: Trebuchet MS;
+}  
+
+.top-bar {
+    width: 100%;
+    height: 100px;
+    background-color: #bbbbbb;
+}
+
+.game-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.text-container {
+    height: 600px;
+    background-color: #888888;
+}
+
+.choice-container {
+    height: 200px;
+    background-color: #666666;
+}
+
+.side-container-left {
+    width: 20%;
+    background-color: #aaaaaa;
+}
+
+.main-container {
+    width: 60%;
+    background-color: #cccccc;
+}
+
+.side-container-right {
+    width: 20%;
+    background-color: #777777;
+}
